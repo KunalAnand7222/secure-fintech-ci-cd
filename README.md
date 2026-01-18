@@ -1,12 +1,18 @@
-Secure Fintech CI/CD Pipeline
+# Secure Fintech CI/CD Pipeline
 
-A production-ready DevSecOps CI/CD pipeline for a fintech-style backend application. This project automates testing, container builds, security scanning, and deployment using modern DevOps best practices.
+A production-ready **DevSecOps CI/CD pipeline** for a fintech-style backend application.  
+This project automates **testing, Docker image builds, security scanning, and deployment** using modern DevOps best practices.
 
-Overview
+---
 
-This repository demonstrates a secure and reliable CI/CD workflow suitable for fintech environments. Every push to the main branch triggers automated checks to ensure code quality, container security, and deployment readiness.
+## 🚀 Overview
 
-🧱 Architecture
+This repository demonstrates a secure and reliable CI/CD workflow suitable for fintech environments.  
+Every push to the `main` branch triggers automated checks to ensure **code quality, container security, and deployment readiness**.
+
+---
+
+## 🧱 Architecture
 Developer
    ↓
 GitHub Repository
